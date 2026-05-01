@@ -1,0 +1,3 @@
+Makino-L1 → Downtime tomorrow: Yes (79%)
+Makino-L2 → Downtime tomorrow: No (10%)
+Makino-L3 → Downtime tomorrow: No (25%)
