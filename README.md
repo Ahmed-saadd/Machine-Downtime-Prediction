@@ -182,10 +182,6 @@ This system enables:
 ## 👨‍💻 Team
 
 Ahmed Saad
-Yousef Sameh
-Ahmed Hossam
-Shady Ehab
-Mohamed Rashwan
 
 ---
 
