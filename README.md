@@ -179,7 +179,7 @@ This system enables:
 
 ---
 
-## 👨‍💻 Team
+## 👨‍💻 Author
 
 Ahmed Saad
 
